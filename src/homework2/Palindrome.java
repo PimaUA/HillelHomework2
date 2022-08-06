@@ -1,4 +1,4 @@
-package part2;
+package homework2;
 
 public class Palindrome {
     //method isPalindrome checks if string is palindrome

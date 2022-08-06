@@ -1,4 +1,4 @@
-package part1;
+package homework2;
 
 public class Count {
     //method wordsCount calculates number of words
